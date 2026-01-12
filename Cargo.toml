@@ -1,5 +1,5 @@
 [package]
-name = "tower-server"
+name = "hyperforge"
 version = "0.1.0"
 edition = "2024"
 

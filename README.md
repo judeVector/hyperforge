@@ -1,4 +1,4 @@
-## Tower-Server
+# hyperforge
 
 A lightweight **Rust HTTP API** built with **Hyper**, **Tower**, and **SQLx**.  
 This project demonstrates how to build a production-style async server **without high-level frameworks**.
@@ -29,8 +29,8 @@ This project demonstrates how to build a production-style async server **without
 ### Setup
 
 ```bash
-git clone https://github.com/judevector/tower-server.git
-cd tower-server
+git clone https://github.com/judevector/hyperforge.git
+cd hyperforge
 ```
 
 Create a `.env` file:
